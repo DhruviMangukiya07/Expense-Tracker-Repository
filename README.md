@@ -1,4 +1,4 @@
-# Expense-Tracker-Repository
+# Expense-Tracker
 
 Tools Used:
 - Python
